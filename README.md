@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-![Header](https://i.pinimg.com/564x/9d/74/08/9d7408f70d85ff862cb60162c6042c61.jpg)
+![Header](https://i.pinimg.com/originals/e5/bd/3a/e5bd3a2f2cf2f6f4dad0f531b92564be.gif)
 
 Hello there! I'm **Victoria!**
 

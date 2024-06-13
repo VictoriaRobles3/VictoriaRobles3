@@ -21,7 +21,7 @@ Hello there! I'm **Victoria!**
 
 - **Tools & Technologies:**
   - Git & GitHub for version control
-  - Visual Studio Code, Eclipse IDEA
+  - Visual Studio Code, Eclipse IDE
   - Basic knowledge of databases like MySQL
   - Familiar with Agile and Scrum methodologies
 

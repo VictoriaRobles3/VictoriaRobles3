@@ -1,15 +1,15 @@
-# Welcome to My GitHub Profile! 👋
+# Welcome!
 
 ![Header](https://i.pinimg.com/originals/e5/bd/3a/e5bd3a2f2cf2f6f4dad0f531b92564be.gif)
 
-Hello there! I'm **Victoria!**
+Hello, I'm **Victoria!**
 
 ## About Me
 
-- 🎓 I majored in **Psychology** and I'm currently working on my **Computer Science** degree at **Georgia State University**.
-- 📅 At 24, I'm constantly exploring the intersection between human behavior and technology.
-- 🚀 I am keen to work on innovative projects that push the boundaries of what's possible.
-- 💡 With a unique blend of skills in both the social sciences and programming, I'm eager to contribute to projects that require a deep understanding of human behavior alongside cutting-edge technology.
+- I majored in **Psychology** and I'm currently working on my **Computer Science** degree at **Georgia State University**.
+- At 24, I'm constantly exploring the intersection between human behavior and technology.
+- I am keen to work on innovative projects that push the boundaries of what's possible.
+- With a unique blend of skills in both the social sciences and programming, I'm eager to contribute to projects that require a deep understanding of human behavior alongside cutting-edge technology.
 
 ## My Skillset
 
@@ -32,8 +32,8 @@ Hello there! I'm **Victoria!**
 
 ## What I'm Currently Up To
 
-- 💻 Learning **JavaScript** to enhance my front-end development skills.
-- 📊 Diving into **Python**.
+- Learning **JavaScript** to enhance my front-end development skills.
+- Diving into **Python**.
 
 ## Get in Touch
 
